@@ -8,4 +8,4 @@ Clone the repo.
 
 Go to https://excalidraw.com/.
 
-Press `CMD + O' on Mac or 'Ctrl + O' on Linux and Windows, and open the desired file from the cloned repo.
+Press `CMD + O` on Mac or `Ctrl + O` on Linux and Windows, and open the desired file from the cloned repo.
